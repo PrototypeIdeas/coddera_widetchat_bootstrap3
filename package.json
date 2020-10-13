@@ -1,0 +1,40 @@
+{
+  "name": "coddera_widget_sebrae",
+  "version": "1.0.0",
+  "description": "Widget Coddera-Sebrae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtosta90/coddera_widget_sebrae.git"
+  },
+  "keywords": [
+    "coddera",
+    "sebrae",
+    "widget"
+  ],
+  "author": "Coddera",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "aws-sdk": "^2.755.0",
+    "axios": "^0.19.2",
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "cors": "^2.8.5",
+    "ejs": "^2.5.2",
+    "express": "^4.17.1",
+    "express-validator": "^2.20.8",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "socket.io": "^1.4.8",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/gtosta90/coddera_widget_sebrae/issues"
+  },
+  "homepage": "https://github.com/gtosta90/coddera_widget_sebrae#readme"
+}
