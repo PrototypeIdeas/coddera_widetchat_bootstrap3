@@ -1,5 +1,5 @@
-//const host = "https://genesyscloudapps.coddera.com:3000";
-const host = "http://localhost:3000";
+const host = "https://genesyscloudapps.coddera.com:3000";
+//const host = "http://localhost:3000";
 
 function widget() {
     $('#purecloud-widget').load(host + "/coddera-widget", function () {
